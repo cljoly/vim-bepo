@@ -1,4 +1,4 @@
-*bépo.txt*  Plugin pour la disposition de clavier bépo
+*bepo.txt*  Plugin pour la disposition de clavier bépo
 
 Auteur: Micha Moskovic
 Licence: licence MIT
